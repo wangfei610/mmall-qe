@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/wangfei610/mmall-qe#readme",
   "devDependencies": {
-    "webpack": "^3.8.1"
+    "webpack": "^1.15.0"
   },
   "dependencies": {
     "jquery": "^3.3.1"
