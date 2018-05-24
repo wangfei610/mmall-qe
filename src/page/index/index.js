@@ -1,5 +1,11 @@
 'use strict'
 
-console.log('hello index');
-$('boby').html('index ~~~~~');
-console.log('hello index ---');
+require('../module.js');
+require('./index.css');
+
+console.log('hello index-----');
+
+
+
+
+
